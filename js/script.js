@@ -47,7 +47,7 @@ const app = createApp({
             }
         },
         selectSlide(index) {
-            this.currentIndex = index; // Seleziona la diapositiva basata sull'indice della miniatura
+            this.currentIndex = index; 
         }
     }
 
